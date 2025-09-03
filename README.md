@@ -1,2 +1,2 @@
 # LabMov2025
-Creo
+Primer commit del proyecto
