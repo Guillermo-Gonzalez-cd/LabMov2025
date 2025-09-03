@@ -1,2 +1,2 @@
 # LabMov2025
-Primer commit del proyecto
+Primer commit del proyecto.
